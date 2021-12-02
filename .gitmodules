@@ -1,0 +1,18 @@
+[submodule "pluginHost"]
+	path = pluginHost
+	url = https://github.com/xNewz/pluginHost.git
+[submodule "pluginInterface"]
+	path = pluginInterface
+	url = https://github.com/xNewz/pluginInterface.git
+[submodule "plugin1"]
+	path = plugin1
+	url = https://github.com/xNewz/plugin1.git
+[submodule "plugin2"]
+	path = plugin2
+	url = https://github.com/xNewz/plugin2.git
+[submodule "plugin3"]
+	path = plugin3
+	url = https://github.com/xNewz/plugin3.git
+[submodule "plugin4"]
+	path = plugin4
+	url = https://github.com/xNewz/plugin4.git
