@@ -16,3 +16,6 @@
 [submodule "plugin4"]
 	path = plugin4
 	url = https://github.com/xNewz/plugin4.git
+[submodule "plugin-pargorn"]
+	path = plugin-pargorn
+	url = https://github.com/xNewz/plugin-pargorn.git
